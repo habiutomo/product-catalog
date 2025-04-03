@@ -93,10 +93,6 @@ Aplikasi ini dioptimalkan untuk performa dengan fokus pada:
 - Sistem favorit produk
 - Riwayat pesanan pengguna
 
-## Kontribusi
-
-Kontribusi selalu diterima. Silakan fork repositori, buat branch untuk fitur, dan kirimkan pull request.
-
 ## Lisensi
 
 habizinnia@gmail.com
