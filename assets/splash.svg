@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1242" height="2208" viewBox="0 0 1242 2208" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1242" height="2208" fill="white"/>
+  <path d="M621 1254C745.85 1254 847 1152.85 847 1028C847 903.15 745.85 802 621 802C496.15 802 395 903.15 395 1028C395 1152.85 496.15 1254 621 1254Z" fill="#5C6AC4"/>
+  <path d="M621 1122C682.856 1122 733 1071.86 733 1010C733 948.144 682.856 898 621 898C559.144 898 509 948.144 509 1010C509 1071.86 559.144 1122 621 1122Z" fill="white"/>
+  <text x="621" y="1500" text-anchor="middle" font-family="Arial" font-size="100" font-weight="bold" fill="#5C6AC4">E-Commerce App</text>
+</svg>
