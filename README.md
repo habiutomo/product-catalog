@@ -99,4 +99,4 @@ Kontribusi selalu diterima. Silakan fork repositori, buat branch untuk fitur, da
 
 ## Lisensi
 
-MIT
+habizinnia@gmail.com
